@@ -1,4 +1,4 @@
-update=25/12/2016 1:21:28
+update=25/12/2016 18:11:45
 version=1
 last_client=kicad
 [pcbnew]
@@ -20,6 +20,11 @@ SolderMaskMinWidth="    0,000000"
 DrawSegmentWidth="    0,200000"
 BoardOutlineThickness="    0,150000"
 ModuleOutlineThickness="    0,150000"
+[cvpcb]
+version=1
+NetIExt=net
+[general]
+version=1
 [eeschema]
 version=1
 LibDir=C:/Users/Jorge/Documents/GitHub/kicad-library/library;../kicad-library
@@ -56,8 +61,3 @@ LibName29=atmel
 LibName30=contrib
 LibName31=valves
 LibName32=kicad-library
-[cvpcb]
-version=1
-NetIExt=net
-[general]
-version=1
